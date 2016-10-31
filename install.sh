@@ -33,7 +33,7 @@ source "$DOTFILES_DIR/install/brew-cask.sh"
 source "$DOTFILES_DIR/install/atom.sh"
 source "$DOTFILES_DIR/install/meteor.sh"
 source "$DOTFILES_DIR/osx/defaults.sh"
-source "$DOTFILES_DIR/osx/defaults.dock.sh"
+# source "$DOTFILES_DIR/osx/defaults.dock.sh"
 
 # Run tests
 # bats test/*.bats

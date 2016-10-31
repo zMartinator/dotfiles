@@ -1,9 +1,9 @@
 [user]
-  name = Ben Diuguid
-  email = bendiuguid@gmail.com
+  name = Zach Martinez
+  email = zach@martinezhome.org
 
 [github]
-  user = bendiuguid
+  user = zMartinator
 
 [core]
   excludesfile = ~/.gitignore_global

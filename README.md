@@ -1,8 +1,6 @@
-# Ben Diuguid's dotfiles
+# Zach Martinez's dotfiles
 
 For more information on dotfiles [visit this](http://dotfiles.github.io/)
-
-Follow me on Twitter: [@BenDiuguid](https://twitter.com/BenDiuguid)
 
 ## Overview
 
@@ -16,8 +14,6 @@ Follow me on Twitter: [@BenDiuguid](https://twitter.com/BenDiuguid)
 ### Installation
 To install these dotfiles, simply clone this repo then cd into it and execute install.sh. You can also simply paste the following command into terminal, which switch the the home directory, clone the repo into .dotfiles/ and then run the install script with bash.
 
-
-Copy and Paste into terminal: `cd ~/ && git clone https://github.com/bendiuguid/dotfiles .dotfiles && cd .dotfiles && bash install.sh`
 
 ## File System
 

@@ -11,39 +11,39 @@ apps=(
   android-file-transfer
   android-studio
   appcleaner
-  atom
+  # atom
   blisk
   brave
   charles
-  cyberduck
-  discord
+  # cyberduck
+  # discord
   docker
   firefox
   firefoxdeveloperedition
-  flux
-  github-desktop
+  # flux
+  # github-desktop
   google-chrome
   google-chrome-canary
   google-drive
-  gopro
-  hyperterm
-  iterm2
+  # gopro
+  hyper
+  # iterm2
   java
-  opera
-  polymail
+  # opera
+  # polymail
   postman
   robomongo
-  safari-technology-preview
-  servo
-  skype
+  # safari-technology-preview
+  # servo
+  # skype
   slack
   sublime-text
   torbrowser
   transmission
-  virtualbox
+  # virtualbox
   visual-studio-code
   vivaldi
-  webstorm
+  # webstorm
 )
 
 brew cask install "${apps[@]}"
